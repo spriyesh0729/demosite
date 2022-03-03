@@ -1,0 +1,39 @@
+header{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+h1{
+    font-weight: normal;
+}
+
+nav{
+    width: 60vw;
+}
+
+.bigImage{
+    width: 95vw;
+    margin: 1rem;
+    margin-bottom: 4rem;
+}
+
+.container{
+    display: flex;
+}
+
+.container>div{
+    text-align: center;
+    
+}
+
+.container>div>p{
+    font-size: x-large;
+    text-justify: auto;
+}
